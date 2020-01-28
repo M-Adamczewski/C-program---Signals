@@ -1,0 +1,1 @@
+Program for signals. The functions are generating, modifing and representing signals.
